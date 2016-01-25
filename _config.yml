@@ -1,0 +1,30 @@
+title: ESMANN:IT
+description: ESMANN:IT
+
+url: http://esmann.io/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: ESMANN::IT
+   url: /esmannit
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: martinesmann
+   twitter: martinesmann
+   facebook: martinesman
+   email: martin@esmann.io
+
+google_analytics: "UA-72165567-1"

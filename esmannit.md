@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESMANN::IT
+title: ESMANN:IT
 ---
 
 <div class="post">

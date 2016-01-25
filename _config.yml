@@ -3,7 +3,7 @@ description: ESMANN:IT
 
 url: http://esmann.io/
 baseurl: ""
-editurl: https://github.com/esmann-io/esmann-io.github.io/
+editurl: https://github.com/esmann-io/esmann-io.github.io/blob/master/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 

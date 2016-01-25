@@ -15,7 +15,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: ESMANN::IT
+ - title: ESMANN:IT
    url: /esmannit
  - title: About
    url: /about

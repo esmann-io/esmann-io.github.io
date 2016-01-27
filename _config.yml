@@ -14,11 +14,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
- - title: ESMANN:IT
-   url: /esmannit
+   url: /index
+ - title: Work
+   url: /work
  - title: Blog
-   url: /blog.html
+   url: /blog
  - title: Contact
    url: /contact
 

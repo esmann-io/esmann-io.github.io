@@ -17,8 +17,8 @@ navigation:
    url: /index.html
  - title: ESMANN:IT
    url: /esmannit
- - title: About
-   url: /about
+ - title: Blog
+   url: /blog.html
  - title: Contact
    url: /contact
 

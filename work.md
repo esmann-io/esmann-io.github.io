@@ -1,13 +1,11 @@
 ---
 layout: default
-title: ESMANN:IT
+title: ESMANN:IO
 ---
 
 <div class="post">
-	<h1 class="pageTitle">ESMANN:IT</h1>
-	<!-- <img src="{{ '/assets/img/1500x500.jpg' | prepend: site.baseurl }}" alt=""></img> -->
-	<p class="intro">ESMANN:IT - Software for the .NET platform.</p>
-	<h2>Areas of work</h2>
+	<h1 class="pageTitle">Work</h1>
+	<p class="intro"> </p>
 	<ul>
 		<li>Azure Cloud Solutions</li>
   		<li>Windows Phone</li>

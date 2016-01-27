@@ -18,7 +18,7 @@ navigation:
  - title: Work
    url: /work
  - title: Blog
-   url: /blog.html
+   url: /blog
  - title: Contact
    url: /contact
 

@@ -8,7 +8,7 @@ title: ESMANN:IO
 
   <ul class="posts noList">
     {% for post in paginator.posts %}
-    {% if post.tag == "techtalk" %}
+    {% if post.mytag == "techtalk" %}
     <li>
       <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
       <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>

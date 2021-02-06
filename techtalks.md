@@ -6,7 +6,7 @@ title: TechTalk's
 <div id="articles">
   <h1>TechTalk's</h1>
   <ul class="posts noList">
-    {% for post in site.articles %}
+    {% for post in site.posts %}
     {% if post.mytag == "techtalk" %}
       <li>
       	<span class="date">{{ post.date | date_to_string }}</span>

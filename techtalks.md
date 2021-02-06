@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Articles
+title: TechTalk's
 ---
 
 <div id="articles">
-  <h1>Articles</h1>
+  <h1>TechTalk's</h1>
   <ul class="posts noList">
     {% for post in site.articles %}
     {% if post.mytag == "techtalk" %}

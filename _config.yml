@@ -19,8 +19,8 @@ navigation:
     url: /work
   - title: Blog
     url: /blog
-  - title: TechTalk
-    url: /techtalk
+  - title: TechTalk's
+    url: /techtalks
   - title: Contact
     url: /contact
 

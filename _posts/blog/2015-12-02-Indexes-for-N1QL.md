@@ -2,7 +2,6 @@
 layout: post
 title:  "Indexes for N1QL: or how I got an order magnitude speed increase"
 date:   2015-12-02
-tag: blog
 ---
 
 <p class="intro"><span class="dropcap">I</span>n Couchbase 4.0 we introduced N1QL query language: a flexible query language that brings SQL-like query to JSON documents.

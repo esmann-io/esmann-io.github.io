@@ -2,6 +2,7 @@
 layout: post
 title:  "Continuous Deployment with Jenkins & .NET"
 date:   2016-01-10
+tag: blog
 --- 
 
 <p class="intro"><span class="dropcap">T</span>his is the first blog post of two about Jenkins and Couchbase. This first post is a general introduction to Continuous Deployment with Jenkins and .NET. The second blog post will be focusing more on how to use Jenkins to set-up test data in Couchbase before running your test code.</p>

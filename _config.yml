@@ -1,7 +1,7 @@
 title: ESMANN:IO
 description: ESMANN:IO
 
-url: http://esmann.io/
+url: https://esmann.io/
 baseurl: ""
 editurl: https://github.com/esmann-io/esmann-io.github.io/blob/master/
 paginate_path: "blog/page:num/"
@@ -13,19 +13,19 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index
- - title: Work
-   url: /work
- - title: Blog
-   url: /blog
- - title: Contact
-   url: /contact
+  - title: Home
+    url: /index
+  - title: Work
+    url: /work
+  - title: Blog
+    url: /blog
+  - title: Contact
+    url: /contact
 
 social:
-   github: martinesmann
-   twitter: martinesmann
-   facebook: martinesmann
-   email: martin@esmann.io
+  github: martinesmann
+  twitter: martinesmann
+  facebook: martinesmann
+  email: martin@esmann.io
 
 google_analytics: "UA-72165567-1"

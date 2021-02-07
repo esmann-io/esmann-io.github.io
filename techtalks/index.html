@@ -4,11 +4,11 @@ title: ESMANN:IO
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Posts</h1>
+  <h1 class="pageTitle">TechTalk's</h1>
 
   <ul class="posts noList">
     {% for post in paginator.posts %}
-    {% if post.categories contains 'blog' %}
+    {% if post.categories contains 'techtalk' %}
     <li>
       <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
       <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>

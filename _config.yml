@@ -9,7 +9,10 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate-v2]
+#gems: [jekyll-paginate-v2]
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
 paginate: 5
 
 navigation:
